@@ -1,0 +1,686 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Ecommerce Shop\n"
+"Last-Translator: \n"
+"Language-Team: logicalThemes <support@logicalthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:10
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:11
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:12
+msgid "Dont worry &hellip it happens to the best of us."
+msgstr ""
+
+#: 404.php:14
+msgid 'Return to the home page'
+msgstr ""
+
+#: comments.php:17
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:27
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:59
+msgid 'Comments are closed.'
+msgstr ""
+
+#: header.php:22
+msgid 'Skip to content'
+msgstr ""
+
+#: template-parts/header/top-bar.php:18
+msgid 'Shop Now'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:12
+msgid 'CATEGORIES'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:100
+msgid 'Open Menu'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:103
+msgid 'Top Menu'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:113
+msgid 'Close Menu'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:126
+msgid 'Cart'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:127
+msgid 'Myaccount'
+msgstr ""
+
+#: searchform.php:9
+msgid 'Search for:'
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:10
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:16
+msgid 'Meta'
+msgstr ""
+
+#: archive.php:33
+#: archive.php:62
+#: archive.php:92
+#: archive.php:122
+#: archive.php:152
+#: archive.php:181
+#: archive.php:208
+#: index.php:33
+#: index.php:59
+#: index.php:86
+#: index.php:113
+#: index.php:140
+#: index.php:166
+#: index.php:190
+#: search.php:39
+#: search.php:71
+#: search.php:103
+#: search.php:136
+#: search.php:169
+#: search.php:201
+#: search.php:231
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:34
+#: archive.php:63
+#: archive.php:93
+#: archive.php:123
+#: archive.php:153
+#: archive.php:182
+#: archive.php:209
+#: index.php:34
+#: index.php:60
+#: index.php:87
+#: index.php:114
+#: index.php:141
+#: index.php:167
+#: index.php:191
+#: search.php:40
+#: search.php:72
+#: search.php:104
+#: search.php:137
+#: search.php:170
+#: search.php:202
+#: search.php:232
+msgid "Next page"
+msgstr ""
+
+#: archive.php:35
+#: archive.php:64
+#: archive.php:94
+#: archive.php:124
+#: archive.php:154
+#: archive.php:183
+#: archive.php:210
+#: index.php:35
+#: index.php:61
+#: index.php:88
+#: index.php:115
+#: index.php:142
+#: index.php:168
+#: index.php:192
+#: search.php:41
+#: search.php:73
+#: search.php:105
+#: search.php:138
+#: search.php:171
+#: search.php:203
+#: search.php:233
+#: template-parts/post/single-post.php:46
+msgid "page"
+msgstr ""
+
+#: search.php:20
+#: search.php:52
+#: search.php:85
+#: search.php:117
+#: search.php:150
+#: search.php:180
+#: search.php:212
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:22
+#: search.php:54
+#: search.php:86
+#: search.php:119
+#: search.php:152
+#: search.php:182
+#: search.php:214
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:30
+#: search.php:62
+#: search.php:94
+#: search.php:127
+#: search.php:160
+#: search.php:191
+#: search.php:224
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/post/single-post.php:19
+#: template-parts/post/content-audio.php:44
+#: template-parts/post/content-gallery.php:32
+#: template-parts/post/content-image.php:29
+#: template-parts/post/content-video.php:44
+#: template-parts/post/content.php:27
+#: template-parts/post/grid-layout.php:27
+msgid '0 Comment'
+msgstr ""
+
+#: template-parts/post/single-post.php:53
+msgid 'Parent post link'
+msgstr ""
+
+#: template-parts/post/single-post.php:58
+#: page-template/home-custom.php:57
+msgid "Next"
+msgstr ""
+
+#: template-parts/post/single-post.php:59
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/post/single-post.php:60
+#: page-template/home-custom.php:54
+msgid "Previous"
+msgstr ""
+
+#: template-parts/post/single-post.php:61
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/post/single-post.php:42
+#: page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/single-post.php:71
+msgid "Edit"
+msgstr ""
+
+#: functions.php:25
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:58
+msgid 'Warm Greetings to you!!'
+msgstr ""
+
+#: functions.php:59
+msgid ' We are much obliged to you for choosing are Ultimate Ecommerce theme. We promise to present you with all the outstanding features and services of our theme. Please proceed towards the landing page to get started .'
+msgstr ""
+
+#: functions.php:60
+msgid 'Welcome...'
+msgstr ""
+
+#: functions.php:80
+msgid 'Ecommerce WordPress Theme'
+msgstr ""
+
+#: functions.php:113
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:114
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid 'Posts and Pages Sidebar'
+msgstr ""
+
+#: functions.php:124
+#: functions.php:134
+msgid 'Appears on posts and pages'
+msgstr ""
+
+#: functions.php:133
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:143
+msgid 'Social Icon'
+msgstr ""
+
+#: functions.php:144
+msgid 'Appears on header'
+msgstr ""
+
+#: functions.php:153
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:163
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:173
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:183
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:154
+#: functions.php:164
+#: functions.php:174
+#: functions.php:184
+msgid "Appears on footer"
+msgstr ""
+
+#: page-template/home-custom.php:41
+msgid 'EXPLORE NOW'
+msgstr ""
+
+#: template-parts/footer/site-info.php:7
+msgid 'By LogicalThemes'
+msgstr ""
+
+#: template-parts/post/content-audio.php:48
+#: template-parts/post/content-gallery.php:36
+#: template-parts/post/content-image.php:33
+#: template-parts/post/content-video.php:48
+#: template-parts/post/content.php:31
+#: template-parts/post/grid-layout.php:31
+msgid 'READ MORE...'
+msgstr ""
+
+#: customizer.php:19
+msgid "LT Settings"
+msgstr ""
+
+#: customizer.php:20
+msgid "Description of what this panel does."
+msgstr ""
+
+#: customizer.php:24
+msgid "General Settings"
+msgstr ""
+
+#: customizer.php:36
+msgid "Select Width Layout"
+msgstr ""
+
+#: customizer.php:39
+msgid "Full Width"
+msgstr ""
+
+#: customizer.php:40
+msgid "Contained Width"
+msgstr ""
+
+#: customizer.php:41
+msgid "Boxed Width"
+msgstr ""
+
+#: customizer.php:53
+msgid "Choose sidebar between different options"
+msgstr ""
+
+#: customizer.php:54
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: customizer.php:57
+msgid "One Column "
+msgstr ""
+
+#: customizer.php:58
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:59
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:60
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer.php:61
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer.php:62
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:163
+msgid "Typography"
+msgstr ""
+
+#: customizer.php:174
+msgid "Paragraph Color"
+msgstr ""
+
+#: customizer.php:188
+msgid "Paragraph Fonts"
+msgstr ""
+
+#: customizer.php:198
+msgid "Paragraph Font Size"
+msgstr ""
+
+#: customizer.php:210
+msgid "\"a\" Tag Color"
+msgstr ""
+
+#: customizer.php:224
+msgid "\"a\" Tag Fonts"
+msgstr ""
+
+#: customizer.php:235
+msgid "\"li\" Tag Color"
+msgstr ""
+
+#: customizer.php:249
+msgid "\"li\" Tag Fonts"
+msgstr ""
+
+#: customizer.php:260
+msgid "H1 Color"
+msgstr ""
+
+#: customizer.php:274
+msgid "H1 Fonts"
+msgstr ""
+
+#: customizer.php:285
+msgid "H1 Font Size"
+msgstr ""
+
+#: customizer.php:297
+msgid "h2 Color"
+msgstr ""
+
+#: customizer.php:311
+msgid "h2 Fonts"
+msgstr ""
+
+#: customizer.php:322
+msgid "h2 Font Size"
+msgstr ""
+
+#: customizer.php:334
+msgid "h3 Color"
+msgstr ""
+
+#: customizer.php:348
+msgid "h3 Fonts"
+msgstr ""
+
+#: customizer.php:359
+msgid "h3 Font Size"
+msgstr ""
+
+#: customizer.php:371
+msgid "h4 Color"
+msgstr ""
+
+#: customizer.php:385
+msgid "h4 Fonts"
+msgstr ""
+
+#: customizer.php:396
+msgid "h4 Font Size"
+msgstr ""
+
+#: customizer.php:408
+msgid "h5 Color"
+msgstr ""
+
+#: customizer.php:422
+msgid "h5 Fonts"
+msgstr ""
+
+#: customizer.php:433
+msgid "h5 Font Size"
+msgstr ""
+
+#: customizer.php:445
+msgid "h6 Color"
+msgstr ""
+
+#: customizer.php:459
+msgid "h6 Fonts"
+msgstr ""
+
+#: customizer.php:470
+msgid "h6 Font Size"
+msgstr ""
+
+#: customizer.php:478 customizer.php:503
+msgid "Topbar"
+msgstr ""
+
+#: customizer.php:479
+msgid "Add Topbar Content here"
+msgstr ""
+
+#: customizer.php:490
+msgid "Click on the checkbox to enable sticky header."
+msgstr ""
+
+#: customizer.php:491
+msgid "Sticky Header"
+msgstr ""
+
+#: customizer.php:502
+msgid "Click on the checkbox to enable Topbar."
+msgstr ""
+
+#: customizer.php:512
+msgid "Add Discount Text"
+msgstr ""
+
+#: customizer.php:523
+msgid "Add Call Text"
+msgstr ""
+
+#: customizer.php:534
+msgid "Add Phone Number"
+msgstr ""
+
+#: customizer.php:545
+msgid "Add Email Text"
+msgstr ""
+
+#: customizer.php:556
+msgid "Add Email"
+msgstr ""
+
+#: customizer.php:564
+msgid "Slider Settings"
+msgstr ""
+
+#: customizer.php:575
+msgid "Click on the checkbox to enable slider."
+msgstr ""
+
+#: customizer.php:576
+msgid "Show / Hide slider"
+msgstr ""
+
+#: customizer.php:588
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: customizer.php:596
+msgid "Top Products Section "
+msgstr ""
+
+#: customizer.php:597
+msgid "This section will appear below the slider."
+msgstr ""
+
+#: customizer.php:606
+msgid "Select Top Product Title Page"
+msgstr ""
+
+#: customizer.php:616
+msgid "Select Page"
+msgstr ""
+
+#: customizer.php:623
+msgid "Footer Text"
+msgstr ""
+
+#: customizer.php:624
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: customizer.php:634
+msgid "Footer Background Color"
+msgstr ""
+
+#: customizer.php:643
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer.php:654
+msgid "Copyright Text Alignment"
+msgstr ""
+
+#: customizer.php:657
+msgid "Left"
+msgstr ""
+
+#: customizer.php:658
+msgid "Right"
+msgstr ""
+
+#: customizer.php:659
+msgid "Center"
+msgstr ""
+
+#: customizer.php:669
+msgid "Copyright Background Color"
+msgstr ""
+
+#: customizer.php:675
+msgid "Woocommerce Shop Page"
+msgstr ""
+
+#: customizer.php:685
+msgid "Product Per Columns"
+msgstr ""
+
+#: customizer.php:686
+msgid "How many products should be shown per Column?"
+msgstr ""
+
+#: customizer.php:702
+msgid "Product Per Page"
+msgstr ""
+
+#: customizer.php:703
+msgid "How many products should be shown per page?"
+msgstr ""
+
+#: customizer.php:714
+msgid "Site Title Font Size"
+msgstr ""
+
+#: customizer.php:731
+msgid "Site Tagline Font Size"
+msgstr ""
+
+#: customizer.php:749
+msgid "Display Site Title and Tagline in Header"
+msgstr ""
+
+#: customizer.php:831
+msgid "Ultimate Ecommerce Pro"
+msgstr ""
+
+#: customizer.php:832
+msgid "Go Pro"
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:13
+msgid 'Social Icon'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:15
+msgid 'Widget for Social icons section'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:35
+#: inc/custom-widgets/social-profile.php:60
+msgid 'Facebook'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:36
+#: inc/custom-widgets/social-profile.php:64
+msgid 'Twitter'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:37
+#: inc/custom-widgets/social-profile.php:68
+msgid 'Linkedin'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:38
+#: inc/custom-widgets/social-profile.php:72
+msgid 'Instagram'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:39
+#: inc/custom-widgets/social-profile.php:76
+msgid 'Pinterest'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:40
+#: inc/custom-widgets/social-profile.php:80
+msgid 'Tumblr'
+msgstr ""
+
+#: inc/custom-widgets/social-profile.php:41
+#: inc/custom-widgets/social-profile.php:84
+msgid 'Youtube'
+msgstr ""
